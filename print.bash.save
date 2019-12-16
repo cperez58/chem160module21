@@ -1,0 +1,4 @@
+#!/bin/bash
+printf "Integer= %5d\n" $1
+printf "Integer= %-5d\n" $1
+printf "Integer
